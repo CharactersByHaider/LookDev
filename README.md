@@ -21,12 +21,6 @@ The primary goal of this repository is to act as a centralized, clean, and struc
 - The `.usda` file is authored to reference textures relative to the asset directory  
 - Designed for real-world shader pipeline simulation and visual fidelity testing  
 
-## Important Notes
-
-- This repository is strictly private and not intended for public distribution.
-- No executable code or third-party proprietary content is included.
-- All assets are original and created solely for personal and professional development.
-
 ## License
 
 This LookDev kit was created with the help of the free resource available at [link](https://caveacademy.com/product/maya-look-development-and-lighting-props-1003/) provided by CAVE Academy. This resource is open and freely available for anyone to use for learning and development purposes.
