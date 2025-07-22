@@ -29,8 +29,11 @@ The primary goal of this repository is to act as a centralized, clean, and struc
 
 ## License
 
-All files and contents within this repository are the original work and intellectual property of **Muhammad Haider**.  
-Unauthorized use, duplication, redistribution, or commercial usage is strictly prohibited without express written permission.
+This LookDev kit was created with the help of the free resource available at  
+[CAVE ACADEMY](https://caveacademy.com/product/maya-look-development-and-lighting-props-1003/)  
+provided by CAVE Academy. This resource is open and freely available for anyone to use for learning and development purposes.
 
+All additional modifications, organization, and structure in this repository were done by **Muhammad Haider**.  
+Please credit both **CAVE Academy** and **Muhammad Haider** if you use or reference this LookDev setup in your own work.
 **Muhammad Haider**  
 [Portfolio](https://haider1397.artstation.com/)
