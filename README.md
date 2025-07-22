@@ -29,9 +29,7 @@ The primary goal of this repository is to act as a centralized, clean, and struc
 
 ## License
 
-This LookDev kit was created with the help of the free resource available at  
-[CAVE ACADEMY](https://caveacademy.com/product/maya-look-development-and-lighting-props-1003/)  
-provided by CAVE Academy. This resource is open and freely available for anyone to use for learning and development purposes.
+This LookDev kit was created with the help of the free resource available at [link](https://caveacademy.com/product/maya-look-development-and-lighting-props-1003/) provided by CAVE Academy. This resource is open and freely available for anyone to use for learning and development purposes.
 
 All additional modifications, organization, and structure in this repository were done by **Muhammad Haider**.  
 Please credit both **CAVE Academy** and **Muhammad Haider** if you use or reference this LookDev setup in your own work.
